@@ -2,7 +2,7 @@
   <h1 align="center">Oi, Eu sou o Edyo.</h1>
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
   <hr>
-  <h4 align="center">a scout passionate about technology in search of a better world ! </h4>
+  <h2 align="center">a scout passionate about technology in search of a better world ! </h2>
   <hr>
 </div>
 
