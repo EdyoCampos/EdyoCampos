@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
   <hr>
   <h2 align="center">a scout passionate about technology in search of a better world ! </h2>
   <hr>
