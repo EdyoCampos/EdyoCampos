@@ -1,13 +1,8 @@
-<div align="center">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="100px">
-  <hr>
-  <h2 align="center">a scout passionate about technology in search of a better world ! </h2>
-  <hr>
-</div>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=edyoCampos&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Estatus do github do Edyo" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edyoCampos&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
+    <img  src="https://github.com/edyoCampos/edyoCampos/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
 </div>
 
 ## Skills:
@@ -51,6 +46,3 @@
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/edyocampos/)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/edyo_campos)
 </p>
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=edyoCampos&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Estatus do github do Edyo" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edyoCampos&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
