@@ -2,8 +2,8 @@
 | ------------- | ------------- |
 
 <div align="center">
-    <img  src="https://github.com/edyoCampos/edyoCampos/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
-</div>
+    ![Snake animation](https://github.com/edyoCampos/edyoCampos/blob/output/github-contribution-grid-snake.svg)
+ </div>
 
 ## Skills:
 
