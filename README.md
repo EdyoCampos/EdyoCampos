@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m software engineer with passion for science and human behavior.<br>💬 Shoot me an Email or add me on Linkedin :)<br>
+🔭 I’m Software Engineer with passion for Science and Human behavior.<br>💬 Shoot me an [Email](mailto:camposevero@gmail.com) or add me on [Linkedin](https://www.linkedin.com/in/edyocampos/) :)<br>
 
 
 ## 🌐 Socials:
@@ -12,13 +12,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=edyoCampos&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=edyoCampos&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=edyoCampos&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=edyoCampos&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
